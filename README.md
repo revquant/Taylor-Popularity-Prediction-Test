@@ -1,4 +1,5 @@
 # Taylor_Swift_Song_Popularity_Prediction
+![Landing Page](https://github.com/arundhutiacad/Taylor_Swift_Song_Popularity_Prediction/blob/main/ALBUM%20COVERS.jpg)
 Project Description: Predicting Taylor Swift's Popular Songs Using Various Machine Learning Models
 
 Introduction:
