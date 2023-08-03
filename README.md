@@ -1,7 +1,7 @@
 # Taylor_Swift_Song_Popularity_Prediction
 ![Landing Page](https://github.com/arundhutiacad/Taylor_Swift_Song_Popularity_Prediction/blob/main/ALBUM%20COVERS.jpg)
 
-#Project Description: Predicting Taylor Swift's Popular Songs Using Various Machine Learning Models
+Project Description: Predicting Taylor Swift's Popular Songs Using Various Machine Learning Models
 
 Introduction:
 Taylor Swift, a renowned singer-songwriter, has a vast discography with numerous chart-topping hits. In this project, we aim to build machine learning models to predict the popularity of Taylor Swift's songs based on certain features. The dataset consists of historical data for her songs, including attributes like lyrics, music genre, release year, album, and more. We will employ multiple machine learning algorithms to predict the popularity of her songs and identify which model performs the best in this task.
