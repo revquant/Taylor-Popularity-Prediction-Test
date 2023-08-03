@@ -1,16 +1,16 @@
 # Taylor_Swift_Song_Popularity_Prediction
 Project Description: Predicting Taylor Swift's Popular Songs Using Various Machine Learning Models
 
-#Introduction:
+Introduction:
 Taylor Swift, a renowned singer-songwriter, has a vast discography with numerous chart-topping hits. In this project, we aim to build machine learning models to predict the popularity of Taylor Swift's songs based on certain features. The dataset consists of historical data for her songs, including attributes like lyrics, music genre, release year, album, and more. We will employ multiple machine learning algorithms to predict the popularity of her songs and identify which model performs the best in this task.
 
-#Objective:
+Objective:
 The primary objective of this project is to use different machine learning algorithms to predict the popularity of Taylor Swift's songs based on the provided dataset. The models will be evaluated using relevant performance metrics, and the best-performing model will be identified.
 
-#Dataset:
+Dataset:
 The dataset includes a collection of Taylor Swift's songs, each represented by various features such as song lyrics sentiment analysis, genre, acousticness, danceability, instrumentalness, and more. Additionally, the dataset contains a popularity score for each song, derived from chart positions, streaming data, and other metrics.
 
-##Methodology:
+Methodology:
 1. Data Preprocessing:
    - Handle missing values, if any.
    - Convert categorical features into numerical representations using one-hot encoding or label encoding.
