@@ -1,4 +1,4 @@
-,name,album,release_date,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,duration_ms
+number,name,album,release_date,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,duration_ms
 0,Lavender Haze,Midnights (The Til Dawn Edition),2023-05-26,1,24emu3sabKISjRkrys28jq,spotify:track:24emu3sabKISjRkrys28jq,0.236,0.735,0.454,0.00113,0.133,-10.516,0.0876,97.043,0.0751,74,202395
 1,Maroon,Midnights (The Til Dawn Edition),2023-05-26,2,6qxvy9Pe4RJIq5JBVbbwbS,spotify:track:6qxvy9Pe4RJIq5JBVbbwbS,0.0609,0.65,0.397,1.4e-06,0.089,-8.237,0.0365,108.055,0.0382,73,218270
 2,Anti-Hero,Midnights (The Til Dawn Edition),2023-05-26,3,5qIHFdkW6phMsTZlN2g8Lc,spotify:track:5qIHFdkW6phMsTZlN2g8Lc,0.115,0.637,0.649,1.22e-06,0.147,-6.59,0.0584,96.935,0.497,73,200690
